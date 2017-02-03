@@ -1,0 +1,11 @@
+Added Component: Designator=*(HIH-4030SMD)
+Added Component: Designator=P?(HDR1X3)
+Added Pin To Net: NetName=VCC Pin=*-1
+Added Pin To Net: NetName=OUT Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=OUT Pin=P?-2
+Added Pin To Net: NetName=VCC Pin=P?-3
+Added Member To Class: ClassName=Main_Board Member=Component * HIH-4030SMD
+Added Member To Class: ClassName=Main_Board Member=Component P? Header 3
+Added Room: Name=Main_Board
