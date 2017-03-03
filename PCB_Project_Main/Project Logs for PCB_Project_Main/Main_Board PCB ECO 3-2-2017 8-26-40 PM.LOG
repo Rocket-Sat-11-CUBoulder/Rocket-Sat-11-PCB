@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=30V Pin=*-1
+Removed Pin From Net: NetName=GND Pin=*-2
+Removed Pin From Net: NetName=12V Pin=*-3
+Added Pin To Net: NetName=30V Pin=*-1
+Added Pin To Net: NetName=30V Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=5V Pin=*-3
+Added Pin To Net: NetName=12V Pin=*-3

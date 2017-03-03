@@ -1,0 +1,99 @@
+Added Component: Designator=*(ADXL377 - duplicate)
+Added Component: Designator=*(RT9193)
+Added Component: Designator=*(MPU-9250)
+Added Component: Designator=C1(RAD-0.3)
+Added Component: Designator=C2(RAD-0.3)
+Added Component: Designator=C?(C1206)
+Added Component: Designator=C?(C1206)
+Added Component: Designator=C?(C1206)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=P?(HDR1X3)
+Added Component: Designator=P?(HDR1X4)
+Added Component: Designator=P?(HDR1X4)
+Added Component: Designator=Q?(TO-226-AA)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=SJ2(HDR1X3)
+Added Component: Designator=U?(HDR1X4)
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=GND Pin=SJ2-3
+Added Pin To Net: NetName=5V Pin=*-3
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=*-3
+Added Pin To Net: NetName=12V Pin=C?-1
+Added Net: Name=12V
+Added Pin To Net: NetName=30V Pin=*-1
+Added Pin To Net: NetName=30V Pin=*-1
+Added Pin To Net: NetName=30V Pin=C?-1
+Added Pin To Net: NetName=30V Pin=C?-1
+Added Net: Name=30V
+Added Net: Name=Net*_1*2
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Pin To Net: NetName=Net*_7 Pin=P?-1
+Added Net: Name=Net*_7
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_9 Pin=SJ2-2
+Added Net: Name=Net*_9
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_10 Pin=C1-2
+Added Net: Name=Net*_10
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_11 Pin=P?-2
+Added Net: Name=Net*_11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=Net*_12 Pin=P?-4
+Added Net: Name=Net*_12
+Added Pin To Net: NetName=Net*_21 Pin=*-21
+Added Pin To Net: NetName=Net*_21 Pin=P?-3
+Added Net: Name=Net*_21
+Added Pin To Net: NetName=Net*_22 Pin=*-22
+Added Pin To Net: NetName=Net*_22 Pin=P?-3
+Added Pin To Net: NetName=Net*_22 Pin=R3-1
+Added Net: Name=Net*_22
+Added Pin To Net: NetName=Net*_23 Pin=*-23
+Added Pin To Net: NetName=Net*_23 Pin=R2-1
+Added Net: Name=Net*_23
+Added Pin To Net: NetName=Net*_24 Pin=*-24
+Added Pin To Net: NetName=Net*_24 Pin=P?-2
+Added Pin To Net: NetName=Net*_24 Pin=R1-1
+Added Net: Name=Net*_24
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=P?-1
+Added Pin To Net: NetName=NetC?_2 Pin=U?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Net: Name=NetP?_1
+Added Pin To Net: NetName=NetP?_2 Pin=P?-2
+Added Pin To Net: NetName=NetP?_2 Pin=SJ2-1
+Added Net: Name=NetP?_2
+Added Net: Name=NetU?_5
+Added Net: Name=NetU?_6
+Added Class: Name=BoomIMU_Sensor
+Added Class: Name=Buck_Converters
+Added Class: Name=enviroAccelerometer
+Added Class: Name=Humidity_Sensor
+Added Class: Name=Pressure_Sensor
+Added Room: Name=BoomIMU_Sensor
+Added Room: Name=Buck_Converters
+Added Room: Name=enviroAccelerometer
+Added Room: Name=Humidity_Sensor
+Added Room: Name=Pressure_Sensor
