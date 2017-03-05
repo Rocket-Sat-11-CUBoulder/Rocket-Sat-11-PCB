@@ -239,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document14]
-DocumentPath=OV7670.SchLib
+DocumentPath=Reg_DPAK-3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -255,7 +255,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document15]
-DocumentPath=environmentalAccelerometer.SchLib
+DocumentPath=OV7670.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -271,7 +271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document16]
-DocumentPath=thermistor.SchLib
+DocumentPath=environmentalAccelerometer.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -287,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document17]
-DocumentPath=RS232_Level_Shifter.PcbLib
+DocumentPath=thermistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -303,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document18]
-DocumentPath=RS232_Level_Shifter.SchLib
+DocumentPath=RS232_Level_Shifter.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -319,7 +319,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document19]
-DocumentPath=Reg_IFX.SchLib
+DocumentPath=RS232_Level_Shifter.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -335,7 +335,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document20]
-DocumentPath=Reg_IFX.PcbLib
+DocumentPath=Reg_IFX.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -351,7 +351,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document21]
-DocumentPath=RSX11_SDCard.SchDoc
+DocumentPath=Reg_DPAK-3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -367,7 +367,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document22]
-DocumentPath=USD CARD.SchLib
+DocumentPath=Reg_IFX.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -383,7 +383,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document23]
-DocumentPath=uSDD card.PcbLib
+DocumentPath=RSX11_SDCard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -399,7 +399,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document24]
-DocumentPath=Thermistors.SchDoc
+DocumentPath=USD CARD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -415,7 +415,55 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document25]
+DocumentPath=uSDD card.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document26]
+DocumentPath=Thermistors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document27]
 DocumentPath=Nucleo.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document28]
+DocumentPath=Telemetry-Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
