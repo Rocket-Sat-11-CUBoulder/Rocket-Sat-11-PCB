@@ -37,6 +37,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\Desktop\XN04312Rs232LevelShifter.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CIFTLVYD
+
+[Document2]
 DocumentPath=HIH-4030SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -53,7 +70,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NIPWTVHJ
 
-[Document2]
+[Document3]
+DocumentPath=..\..\..\Desktop\XN04312Rs232LevelShifter.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VAFQPHCV
+
+[Document4]
 DocumentPath=HIH-4030SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TJRHBLHR
 
-[Document3]
+[Document5]
 DocumentPath=Main_Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXOBJVTE
 
-[Document4]
+[Document6]
 DocumentPath=BMP180.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UWIMNYMS
 
-[Document5]
+[Document7]
 DocumentPath=BMP180.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRTLXDRC
 
-[Document6]
+[Document8]
 DocumentPath=Pressure_Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFJFOHHH
 
-[Document7]
+[Document9]
 DocumentPath=BoomIMU_Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNNXUVJJ
 
-[Document8]
+[Document10]
 DocumentPath=MPU-9250.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRPENRSF
 
-[Document9]
+[Document11]
 DocumentPath=MPU-9250.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YOXYNHVU
 
-[Document10]
+[Document12]
 DocumentPath=Humidity_Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRWJTSGL
 
-[Document11]
+[Document13]
 DocumentPath=Buck_Converters.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QTGADEET
 
-[Document12]
+[Document14]
 DocumentPath=enviroAccelerometer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGXNDEAT
 
-[Document13]
+[Document15]
 DocumentPath=environmentalAccelerometer.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JYPTPQTG
 
-[Document14]
+[Document16]
 DocumentPath=OV7670.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKSBTOMI
 
-[Document15]
+[Document17]
 DocumentPath=environmentalAccelerometer.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYRGRDGL
 
-[Document16]
+[Document18]
 DocumentPath=thermistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -307,40 +341,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CASMMYSY
-
-[Document17]
-DocumentPath=Reg_DPAK-3.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TEXJCIDA
-
-[Document18]
-DocumentPath=Reg_DPAK-3.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HDHMGSHU
 
 [Document19]
 DocumentPath=RS232_Level_Shifter.PcbLib
