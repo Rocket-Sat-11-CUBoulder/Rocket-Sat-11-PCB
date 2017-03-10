@@ -102,7 +102,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UXOBJVTE
+DocumentUniqueId=XWHEJGCH
 
 [Document5]
 DocumentPath=Temp_Pressure.SchDoc
@@ -119,7 +119,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UWIMNYMS
+DocumentUniqueId=IRKIHIYQ
 
 [Document6]
 DocumentPath=BoomIMU_Sensor.SchDoc
@@ -136,7 +136,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XNNXUVJJ
+DocumentUniqueId=MDAHINEG
 
 [Document7]
 DocumentPath=MPU-9250.SchLib
@@ -187,7 +187,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LRWJTSGL
+DocumentUniqueId=CPINWUKB
 
 [Document10]
 DocumentPath=Buck_Converters.SchDoc
@@ -204,7 +204,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QTGADEET
+DocumentUniqueId=CARPPAFI
 
 [Document11]
 DocumentPath=enviroAccelerometer.SchDoc
@@ -408,7 +408,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MXABWLNY
 
 [Document23]
 DocumentPath=Telemetry-Power.SchDoc
@@ -425,7 +425,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KPFMSRXR
 
 [Document24]
 DocumentPath=Linear_Actuators.SchDoc
@@ -476,7 +476,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WJRTFRWV
 
 [Document27]
 DocumentPath=GoPros.SchDoc
@@ -493,7 +493,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JCXNXIFR
+
+[Document28]
+DocumentPath=RS232_Level_Shifter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BAAKDOCT
 
 [GeneratedDocument1]
 DocumentPath=Main_Board.PcbDoc.htm
