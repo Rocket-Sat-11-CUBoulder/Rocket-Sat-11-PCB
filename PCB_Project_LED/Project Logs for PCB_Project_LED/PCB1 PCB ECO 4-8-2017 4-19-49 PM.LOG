@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VDD3.3 Pin=P10-1
+Removed Pin From Net: NetName=GND Pin=P10-2
+Change Component DesignItemId : Designator=P10 Old DesignItemId=Header 2 New DesignItemId=Component_1
+Change Component Footprint: Designator=P10 Old Footprint=HDR1X2 New Footprint=PCBComponent_1
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=VDD3.3 Pin=P10-2
+Added Pin To Net: NetName=VDD3.3 Pin=P10-2
