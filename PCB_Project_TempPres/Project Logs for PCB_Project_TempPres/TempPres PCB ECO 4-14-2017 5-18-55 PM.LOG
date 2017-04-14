@@ -1,0 +1,28 @@
+Added Component: Designator=*(KP-234)
+Added Component: Designator=C1(C1206)
+Added Component: Designator=C2(C1206)
+Added Component: Designator=C3(C1206)
+Added Component: Designator=P(HDR1X3)
+Added Component: Designator=T(HDR1X3)
+Added Pin To Net: NetName=GND Pin=*-6
+Added Pin To Net: NetName=GND Pin=*-8
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=P-3
+Added Pin To Net: NetName=GND Pin=T-3
+Added Net: Name=GND
+Added Pin To Net: NetName=OUTP Pin=*-7
+Added Pin To Net: NetName=OUTP Pin=C2-2
+Added Pin To Net: NetName=OUTP Pin=P-2
+Added Net: Name=OUTP
+Added Pin To Net: NetName=OUTT Pin=T-2
+Added Net: Name=OUTT
+Added Pin To Net: NetName=VDD5V Pin=*-5
+Added Pin To Net: NetName=VDD5V Pin=C1-1
+Added Pin To Net: NetName=VDD5V Pin=C3-1
+Added Pin To Net: NetName=VDD5V Pin=P-1
+Added Pin To Net: NetName=VDD5V Pin=T-1
+Added Net: Name=VDD5V
+Added Class: Name=TempPres
+Added Room: Name=TempPres
