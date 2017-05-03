@@ -1,0 +1,7 @@
+Added Component: Designator=Analog In 1(HDR1X8)
+Added Component: Designator=Analog In 2(HDR1X8)
+Added Component: Designator=Communication(HDR1X8)
+Added Component: Designator=Digital(HDR2X18)
+Added Component: Designator=Power(HDR1X8)
+Added Class: Name=Arduino Mega
+Added Room: Name=Arduino Mega
