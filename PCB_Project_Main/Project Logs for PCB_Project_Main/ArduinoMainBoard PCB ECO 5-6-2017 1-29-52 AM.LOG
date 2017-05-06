@@ -1,0 +1,5 @@
+Added Component: Designator=M*(HDR2X18)
+Added Component: Designator=M*(HDR1X8)
+Added Component: Designator=M*(HDR1X8)
+Added Component: Designator=M*(HDR1X8)
+Added Member To Class: ClassName=Arduino Mega Member=Component M* Digital
