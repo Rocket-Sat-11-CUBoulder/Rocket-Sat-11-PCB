@@ -1,0 +1,24 @@
+Added Component: Designator=ACC1(HDR1X7)
+Added Component: Designator=C1(0402)
+Added Component: Designator=PRE1(HDR1X3)
+Added Component: Designator=PRE2(HDR1X3)
+Added Component: Designator=PRE3(HDR1X3)
+Added Component: Designator=TMP1(HDR1X3)
+Added Component: Designator=TMP2(HDR1X3)
+Added Component: Designator=TMP3(HDR1X3)
+Added Component: Designator=TMP4(HDR1X3)
+Added Member To Class: ClassName=Analog_Input Member=Component ACC1 Accelerometer
+Added Member To Class: ClassName=Analog_Input Member=Component C1 Cap Semi
+Added Member To Class: ClassName=Analog_Input Member=Component PRE1 Pressure
+Added Member To Class: ClassName=Analog_Input Member=Component PRE2 Pressure
+Added Member To Class: ClassName=Analog_Input Member=Component PRE3 Pressure
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component R1 Res2
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component R2 Res2
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component R3 Res2
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component R4 Res2
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component R5 Res2
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component R6 Res2
+Added Member To Class: ClassName=Analog_Input Member=Component TMP1 Temp
+Added Member To Class: ClassName=Analog_Input Member=Component TMP2 Temp
+Added Member To Class: ClassName=Analog_Input Member=Component TMP3 Temp
+Added Member To Class: ClassName=Analog_Input Member=Component TMP4 Amb Temp

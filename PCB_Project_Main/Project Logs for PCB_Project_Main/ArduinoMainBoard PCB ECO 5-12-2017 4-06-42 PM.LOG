@@ -1,0 +1,11 @@
+Added Component: Designator=ACC1(HDR1X7)
+Added Component: Designator=C1(0402)
+Added Component: Designator=PRE1(HDR1X3)
+Added Component: Designator=PRE2(HDR1X3)
+Added Component: Designator=PRE3(HDR1X3)
+Added Component: Designator=TMP1(HDR1X3)
+Added Component: Designator=TMP2(HDR1X3)
+Added Component: Designator=TMP3(HDR1X3)
+Added Component: Designator=TMP4(HDR1X3)
+Added Class: Name=Analog_Input
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component Status LEDs
