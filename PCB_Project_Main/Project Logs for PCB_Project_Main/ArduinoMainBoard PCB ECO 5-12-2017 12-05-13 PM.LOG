@@ -1,0 +1,10 @@
+Added Component: Designator=M4(HDR2X18)
+Added Component: Designator=M5(HDR1X8)
+Added Component: Designator=M6(HDR1X10)
+Change Class Name : Old Net Name=Arduino Mega New Net Name=ArduinoPWR-COMM-DIG_SDCard
+Added Class: Name=Analog_Input
+Added Class: Name=GoPro_Actuator_LED
+Added Class: Name=Power_TimerEvents
+Added Class: Name=Telemetry_AnalogSensors_PTC08_Shifter
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component M4 MEGA Dgital
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component M5 MEGA Communication

@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator= NewDesignator=M4
+Change Component Designator: OldDesignator=MEGA Analog NewDesignator=M2
+Change Component Designator: OldDesignator=MEGA Analog NewDesignator=M3
+Change Component Designator: OldDesignator=MEGA Comm NewDesignator=M5
+Change Component Designator: OldDesignator=MEGA Power NewDesignator=M1
+Change Component Designator: OldDesignator=MEGA PWM NewDesignator=M6
+Added Component: Designator=R1(14-1210)
+Added Component: Designator=R2(14-1210)
+Added Component: Designator=R3(14-1210)
+Added Component: Designator=R4(14-1210)
+Added Component: Designator=R5(14-1210)
+Added Component: Designator=R6(14-1210)
+Added Component: Designator=RS1(HDR1X7)
+Added Component: Designator=S1(HDR1X7)
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component R1 Res3
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component R2 Res3
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component R3 Res3
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component R4 Res3
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component R5 Res3
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component R6 Res3
+Added Member To Class: ClassName=Power_TimerEvents Member=Component RS1 RS Power

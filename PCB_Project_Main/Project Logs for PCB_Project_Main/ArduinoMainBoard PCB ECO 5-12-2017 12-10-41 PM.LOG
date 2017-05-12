@@ -1,0 +1,6 @@
+Added Component: Designator=M1(HDR1X8)
+Added Component: Designator=M2(HDR1X8)
+Added Component: Designator=M3(HDR1X8)
+Added Member To Class: ClassName=ArduinoPWR-COMM-DIG_SDCard Member=Component M1 MEGA Power
+Added Member To Class: ClassName=Analog_Input Member=Component M2 MEGA Analog In 1
+Added Member To Class: ClassName=Analog_Input Member=Component M3 MEGA Analog Input 2

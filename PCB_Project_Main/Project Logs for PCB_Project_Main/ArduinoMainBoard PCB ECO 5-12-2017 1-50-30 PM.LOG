@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=Mega Digital NewDesignator=M4
+Change Component Designator: OldDesignator=RS-X Power NewDesignator=RS1
+Change Component Designator: OldDesignator=Status LEDs NewDesignator=S1
+Added Component: Designator=R1(AXIAL-0.4)
+Added Component: Designator=R2(AXIAL-0.4)
+Added Component: Designator=R3(AXIAL-0.4)
+Added Component: Designator=R4(AXIAL-0.4)
+Added Component: Designator=R5(AXIAL-0.4)
+Added Component: Designator=R6(AXIAL-0.4)

@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=M1 Old Footprint=Model Name New Footprint=HDR1X8
+Change Component Designator: OldDesignator=M1 NewDesignator=MEGA Power
+Change Component Designator: OldDesignator=M2 NewDesignator=MEGA Analog In
+Change Component Designator: OldDesignator=M3 NewDesignator=MEGA Analog In
+Change Component Designator: OldDesignator=M4 NewDesignator=MEGA DIGITAL
+Change Component Designator: OldDesignator=M5 NewDesignator=MEGA Comm
+Change Component Designator: OldDesignator=M6 NewDesignator=MEGA PWM
+Change Component Designator: OldDesignator=RS1 NewDesignator=RockSat Power
+Change Component Designator: OldDesignator=S1 NewDesignator=Status LEDs
